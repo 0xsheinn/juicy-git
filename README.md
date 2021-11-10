@@ -5,8 +5,8 @@ to find sensitive information disclose from github.
 
 ## Usage 
 ```
-juicy-git org:paypal output.txt
-juicy-git paypal output.txt
+$ juicy-git org:paypal output.txt
+$ juicy-git paypal output.txt
 ```
 
 ## Installation
@@ -17,4 +17,6 @@ go get github.com/0xsheinn/juicy-git
 ## POC
 
 <img src="juicy-git-poc.png">
+
+## Output File
 <img src="juicy-git-output.png">
